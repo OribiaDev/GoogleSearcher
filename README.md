@@ -18,7 +18,7 @@ GoogleSearcher is a simple python script that searchs google for the term you pr
 * execute the program either in python, CMD, or your IDE's terminal
 
 ### Initializing Source Code
-* Install [Python]()
+* Install [Python](https://www.python.org/)
 * Download the source code either by git or downloading the zip at the top right
 
 ## Help
