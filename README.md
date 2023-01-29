@@ -31,4 +31,4 @@ GoogleSearcher is a simple python script that searchs google for the term you pr
 
 ## License
 
-All Rights Reserved unless otherwise explicitly stated.
+MIT License
